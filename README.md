@@ -33,8 +33,8 @@ Profile on Coding Platforms:
 <br></br>
 <p align="center">
 <a href="https://leetcode.com/u/iPriyadarshi/" rel="nofollow">Leetcode</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/priyadarshi1505" rel="nofollow">Hackerrank</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/user/priyadarshi1505/" rel="nofollow">GeeksforGeeks</a>🏆
+<a href="https://www.hackerrank.com/priyadarshi1505" rel="nofollow">Hackerrank</a>🏆
+<a href="https://www.geeksforgeeks.org/user/priyadarshi1505/" rel="nofollow">GeeksforGeeks</a>🏆
       </p>
 <hr></hr>
 
