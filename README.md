@@ -4,6 +4,7 @@
 I'm passionate about web development, data science and love to build innovative projects and solve complex problems.  
 
 ---
+![](https://komarev.com/ghpvc/?username=iPriyadarshi)
 
 ## 🚀 About Me
 - 🎓 I'm currently a student at Sitare University.
