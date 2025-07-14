@@ -13,7 +13,7 @@ I'm passionate about web development, data science and love to build innovative 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 **Languages**: Python, JavaScript
+- 💻 **Languages**: Python, Java, JavaScript
   
 ---
 
