@@ -9,6 +9,7 @@ I'm passionate about web development, data science and love to build innovative 
 - 🎓 I'm currently a student at Sitare University.
 - 🌱 I’m currently learning web development, data structure and algorithms.
 - 🤝 I’m open to collaborate on projects, open-source contributions, or ideas you're interested in collaborating on.
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1LYSqOvI4Gh9lbapu_vih4E0so1e-CN6q/view?usp=sharing)
 
 ---
 
