@@ -19,12 +19,6 @@ I'm passionate about web development, data science and love to build innovative 
   
 ---
 
-## 📈 GitHub Stats
-![Priyadarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iPriyadarshi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPriyadarshi&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/iPriyadarshi)
 
