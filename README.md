@@ -91,14 +91,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/iPriyadarshi" />
-</p>
-
----
-
 ## 🌟 Interests
 - 🧠 Competitive Programming & DSA
 - 🤖 Machine Learning & AI
