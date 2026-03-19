@@ -23,7 +23,8 @@
 🤝 Open to **open-source contributions, internships, and collaborations**  
 ✨ I enjoy solving problems and building real-world applications  
 
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1TPt_gJzZ3g9gKsawcEd2CCd3hrFCIney/view)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1frAMdvL4WOUxYqaje5_hJtjsoWY4FCXy/view?usp=sharing)
+
 🌐 **Portfolio:** [Visit My Website](https://ipriyadarshi.github.io/)
 
 ---
