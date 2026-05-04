@@ -51,40 +51,6 @@ I enjoy implementing concepts from coursework and building practical software pr
 
 ---
 
-## Current Projects
-
-### 🔎 Search Engine
-
-Implementing core components used in Information Retrieval systems.
-
-**Concepts**
-- Forward Index
-- Inverted Index
-- Posting Lists
-- Tokenization pipeline
-- Document frequency
-- Basic query processing
-
-**Tech**
-- Java
-
----
-
-### 📝 md2html
-
-Markdown to HTML converter built using structured parsing techniques.
-
-**Concepts**
-- Token parsing
-- Syntax rules
-- Structured transformations
-- HTML generation pipeline
-
-**Tech**
-- Java
-
----
-
 ## Skills
 
 ### Programming Languages
