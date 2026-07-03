@@ -119,15 +119,6 @@ I enjoy implementing concepts from coursework and building practical software pr
 </p>
 
 ---
-
-## Currently Studying
-
-Machine Learning  
-Search Engines and Information Retrieval  
-Advanced Object-Oriented Programming  
-Computer Organization  
-
----
 ## Opportunities
 
 Actively seeking Software Engineering Internship opportunities in:
