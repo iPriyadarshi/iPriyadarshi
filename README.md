@@ -1,142 +1,148 @@
-<h1 align="center">Hi 👋, I'm Priyadarshi Kumar</h1>
+# Hi, I'm Priyadarshi Kumar
 
 <p align="center">
-Computer Science Undergraduate interested in AI • Machine Learning • Web Development • Backend Engineering • Data Science
-</p>
-
-<p align="center">
-
-<a href="https://linkedin.com/in/iPriyadarshi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/iPriyadarshi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/iPriyadarshi">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Software+Developer;Backend+Development+%7C+Web+Scraping;Data+Science+%7C+AI%2FML;Competitive+Programming" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
-<a href="https://drive.google.com/file/d/1frAMdvL4WOUxYqaje5_hJtjsoWY4FCXy/view">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-<a href="https://ipriyadarshi.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white"/>
-</a>
-
+  Computer Science student at Sitare University, interested in building practical software, backend systems, web scraping tools, and data-driven applications.
 </p>
 
----
+## Connect With Me
 
-## About
-
-I am a **B.Tech Computer Science student (Semester 4)** at Sitare University.
-
-Interested in:
-
-- Artificial Intelligence and Machine Learning
-- Data Science and data analysis
-- Web Development - Backend
-- Data Structures and Algorithms
-- Information Retrieval
-- Competitive Programming
-
-I enjoy implementing concepts from coursework and building practical software projects.
-
----
-
-## Skills
-
-### Programming Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+<p align="center">
+  <a href="https://github.com/iPriyadarshi">
+    <img src="https://img.shields.io/badge/GitHub-iPriyadarshi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/iPriyadarshi">
+    <img src="https://img.shields.io/badge/LinkedIn-iPriyadarshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/iPriyadarshi/">
+    <img src="https://img.shields.io/badge/LeetCode-iPriyadarshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/iPriyadarshi">
+    <img src="https://img.shields.io/badge/Codeforces-iPriyadarshi-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/priyadarshi1505/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-priyadarshi1505-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 </p>
 
----
-
-### Web Development
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs"/>
-
+<p align="center">
+  <a href="https://ipriyadarshi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1frAMdvL4WOUxYqaje5_hJtjsoWY4FCXy/view">
+    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:priyadarshi1505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
----
+## About Me
 
-### Data Science & Machine Learning
+- Computer Science student at Sitare University, Batch of 2028.
+- Reliance Foundation Scholar.
+- Interested in backend engineering, web scraping, data science, and AI/ML.
+- Practicing data structures and algorithms through competitive programming.
+- Building projects that combine software development, automation, and data processing.
 
-<p>
+## Tech Stack
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+### Languages
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,&perline=4" alt="Programming languages"/>
 </p>
 
----
+### Backend Development
 
-### Databases
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&perline=2" alt="Backend technologies"/>
 </p>
 
----
-
-### Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge" alt="Alembic"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/HTTPX-5E5E5E?style=for-the-badge" alt="HTTPX"/>
 </p>
 
----
-## Opportunities
+### Frontend Development
 
-Actively seeking Software Engineering Internship opportunities in:
-
-Artificial Intelligence • Machine Learning • Backend Engineering • Web Development • Data Science
-
-## Connect
-
-<p>
-
-<a href="https://linkedin.com/in/iPriyadarshi">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:priyadarshi1505@gmail.com">
-<img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&perline=4" alt="Frontend technologies"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+</p>
+
+### Web Scraping and Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium&perline=4" alt="Web scraping technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8B3B?style=for-the-badge" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Selectolax-555555?style=for-the-badge" alt="Selectolax"/>
+  <img src="https://img.shields.io/badge/HTTPX-5E5E5E?style=for-the-badge" alt="HTTPX"/>
+  <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge" alt="Requests"/>
+</p>
+
+### Data Science and Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,&perline=6" alt="Data science and machine learning technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+</p>
+
+### Databases and Storage
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4" alt="Databases and storage"/>
+</p>
+
+### DevOps, Testing and Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,idea&perline=7" alt="Developer tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff"/>
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge" alt="uv"/>
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm"/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo"/>
+</p>
+
+## Working on
+<p align="center">
+  <a href="https://github.com/iPriyadarshi/ReadMD">
+    <img src="https://img.shields.io/badge/ReadMD-Android%20Markdown%20Reader-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="ReadMD repository"/>
+  </a>
+  <a href="https://github.com/iPriyadarshi/ReadMD/releases">
+    <img src="https://img.shields.io/badge/GitHub-Releases-181717?style=for-the-badge&logo=github&logoColor=white" alt="ReadMD releases"/>
+  </a>
+</p>
+
+An Android application for reading Markdown files, distributed through GitHub Releases.
+
+- Android application development and Gradle build configuration.
+- Automated APK builds using GitHub Actions.
+- GitHub Releases for downloadable APKs.
+
+<p align="center">
+  <i>Building, learning, and improving through practical projects.</i>
+</p>
